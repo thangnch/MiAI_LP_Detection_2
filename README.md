@@ -1,7 +1,7 @@
 # MiAI_LP_Detection_2
 Use WPOD-NET pretrain to detect car license plate
 
-Article link:  http://ainoodle.tech/2019/11/12/nhan-dien-bien-so-xe-chuong-1-phat-hien-bien-so-xe-bang-pretrain-model-yolo/
+Article link:  http://ainoodle.tech/2019/11/20/nhan-dien-bien-so-xe-chuong-2-phat-hien-bien-so-xe-bang-pretrain-wpod-net/
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
